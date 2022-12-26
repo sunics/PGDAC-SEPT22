@@ -1,4 +1,4 @@
-                                  RaktKosh
+                                  RaktKosh             Date-26-12-2022
                               (Based on Blood Bank)
                                   ABSTRACT
 In India, blood bank management services are mostly hospital-based. In a hospital
